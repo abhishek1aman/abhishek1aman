@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:  
 🔭 I’m currently working on: Java and Data Structures & Algorithms (DSA)<br>🤝 I’m looking to collaborate on: Open-source projects and real-world problem-solving tech<br>🆘 I’m looking for help with: Backend development and scaling projects<br>🌱 I’m currently learning: Data Science, Web Development, Python, and SQL<br>💬 Ask me about: Java, DSA, Python, SQL, and Web Development<br>⚡ Fun fact: I enjoy solving coding problems and building useful tech 🚀
 
 
